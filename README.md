@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zorixxe
-- Part-time firefighter, used to be a full time chef and now I'm a IT student.
+- Part-time firefighter, used to be a full time chef and now a IT student.
 - 📫 How to reach me Robin@tildeman.ax
 
 <!---
