@@ -1,7 +1,9 @@
 # Hi, I'm Robin (@zorixxe)
 
 ## About Me
-- Transitioning from a rich career in culinary arts to pursuing a Bachelor's degree in Information Technology at Arcada University of Applied Sciences in Helsinki, Finland.
+- Bachelor's degree in Information Technology from Arcada University of Applied Sciences in Helsinki, Finland.
+- Professional chef.
+- Part-time firefighter.
 - Passionate about 3D printing in my leisure time.
 - Most of the repositories you'll find here are a mix of school projects and personal passion projects.
 
